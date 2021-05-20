@@ -1,3 +1,5 @@
 # Hello-World
-Starter repository 
-Trying to to the first Hello-World script, hopefully one day I can look back on this as something that started me down a new career path.
+Trying to do the first hello-world script
+Hopefully one day I can learn more than just this
+Its late and I'm tired from working all day
+so lets get this started
